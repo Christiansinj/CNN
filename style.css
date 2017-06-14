@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+#main1{
+	padding: 2px 1px;
+	background-color:black;
+}
+#main1 a{
+	color: grey;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	text-decoration: none;
+}
+#main1 {
+	display: flex;
+	justify-content: center;
+}
+
