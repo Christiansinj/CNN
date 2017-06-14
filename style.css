@@ -2,18 +2,22 @@ body{
 	margin: 0;
 }
 #main1{
-	padding: 2px 1px;
+	padding: 15px 1px;
 	background-color:black;
 }
 #main1 a{
 	color: grey;
 	display: flex;
-	justify-content: space-between;
 	padding: 5px;
-	text-decoration: none;
+	text-decoration: arial;
+	justify-content: space-between;
 }
 #main1 {
 	display: flex;
 	justify-content: center;
 }
+.img1{
+	width: 1px;
+	height: 2px;
 
+}
