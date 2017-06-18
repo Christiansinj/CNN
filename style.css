@@ -1,8 +1,11 @@
+/*Main 1*/
 body{
 	margin: 0;
+	background-color: white;
+
 }
 #main1{
-	padding: 15px 1px;
+	padding: 2px 1px;
 	background-color:black;
 }
 #main1 a{
@@ -10,14 +13,26 @@ body{
 	display: flex;
 	padding: 5px;
 	text-decoration: arial;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 #main1 {
 	display: flex;
 	justify-content: center;
 }
+/*Main 1*/
+/* img du main1*/
 .img1{
-	width: 1px;
-	height: 2px;
+	display: flex;
+	justify-content: flex-end;
+	padding: 1px;
+		margin: 0;
 
+}
+/*    tous le contenue de la pages      */
+section{
+	display: flex;
+	justify-content:center;
+}
+#nav{
+	margin: 0;
 }
